@@ -14,5 +14,4 @@ int main()
            case 1 : printf("%d is odd integer",x);
            case 0 : printf("%d is even integer",x);
        }    
-       return 0;
 }
